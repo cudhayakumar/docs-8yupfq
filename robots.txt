@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-x4rub3.agen1385rew.sbs/sitemap.xml
